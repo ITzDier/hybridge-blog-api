@@ -13,6 +13,7 @@ API RESTful desarrollada con Node.js, Express y Sequelize, estructurada bajo un 
 
 ## 📁 Estructura del Proyecto
 
+```
 hybridge-blog-api/
 ├── config/        # Configuración de base de datos y Passport
 ├── middlewares/   # Capas de autenticación y seguridad
@@ -22,7 +23,7 @@ hybridge-blog-api/
 ├── .env           # Variables de entorno (Oculto en producción)
 ├── .gitignore     # Archivos ignorados por Git
 └── index.js       # Punto de entrada principal de la aplicación
-
+```
 
 ## ⚙️ Configuración y Ejecución Local
 
